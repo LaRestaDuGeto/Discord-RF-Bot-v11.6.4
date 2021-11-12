@@ -1,0 +1,38 @@
+{
+    "warn": {
+        "906922469766594580": 2
+    },
+    "blacklist": {
+        "806500130144518156": 1
+    },
+    "captcha": {
+        "906922469766594580": {
+            "valeur": 5650,
+            "statut": false
+        },
+        "826906355767836722": {
+            "valeur": 5492,
+            "statut": true
+        },
+        "808701321246015549": {
+            "valeur": 5046,
+            "statut": true
+        }
+    },
+    "836616471411949588": {
+        "anti-add-bot": "off",
+        "raidmode": "off"
+    },
+    "816380067289759784": {
+        "anti-add-bot": "off",
+        "raidmode": "off"
+    },
+    "847538918219841599": {
+        "anti-add-bot": "off",
+        "raidmode": "off"
+    },
+    "906922197162020896": {
+        "anti-add-bot": "off",
+        "raidmode": "off"
+    }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "backups-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Androz2091 <androz2091@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@justalk/pornhub-api": "^3.5.0",
+    "canvas": "^2.8.0",
+    "discord-backup": "^2.5.0",
+    "discord-buttons": "^4.0.0",
+    "discord-dynamic-music-bot-addon": "^2.1.9",
+    "discord-music-system": "^3.3.15",
+    "fs": "0.0.1-security",
+    "git": "^0.1.5",
+    "moment": "^2.29.1",
+    "ms": "^3.0.0-canary.1",
+    "naar-music-bot": "^1.0.6",
+    "nsfw-generator": "^1.0.8",
+    "pornhub.js": "^0.2.4",
+    "pornsearch": "^2.4.3"
+  }
+}
