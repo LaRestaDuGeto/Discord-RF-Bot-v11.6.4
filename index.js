@@ -135,7 +135,7 @@ client.on("guildMemberAdd", async member => {
 
 
 
-client.login('ODM2NjA0MDk2NTcxMjQ0NTg1.YIgaRw.mpjExr6SPiinBhwORH0tTfneVBU')
+client.login('YOUR TOKEN')
  
 
 
